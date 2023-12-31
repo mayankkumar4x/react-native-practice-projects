@@ -1,0 +1,16 @@
+{
+  "name": "newapp",
+  "displayName": "newapp",
+  "expo": {
+    "slug": "newapp",
+    "description": "first react native hello world app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "extra": {
+      "eas": {
+        "projectId": "972e79d3-c371-4cf8-9d33-51b9191e7e40"
+      }
+    },
+    "owner": "rohitsharma.dev22"
+  }
+}
